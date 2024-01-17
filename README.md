@@ -1,2 +1,2 @@
-# archive-learning-fundamental-android
-An archive for learning fundamental of android apps
+# archive-dicoding-fundamental-android
+An archive for dicoding fundamental of android apps
